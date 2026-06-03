@@ -36,10 +36,11 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-CityPNG. (n.d.). HD Spongebob Angry Classic Character Transparent PNG. CityPNG | Download FREE HD PNG Images. https://www.citypng.com/photo/9071/hd-spongebob-angry-classic-character-transparent-png
-
-Krusty Krab Zoom Background wallpaper. (2023, September 1). Wallpapers.com. https://wallpapers.com/wallpapers/krusty-krab-zoom-background-6vsxog3jpmkidpji.html
+krust.jpg [1] | Owned by CityPNG |
+sponge.png [2] | Owned by Wallpapers.com |
 
 ## References
 
-N/A
+CityPNG. (n.d.). HD Spongebob Angry Classic Character Transparent PNG. CityPNG | Download FREE HD PNG Images. https://www.citypng.com/photo/9071/hd-spongebob-angry-classic-character-transparent-png
+
+Krusty Krab Zoom Background wallpaper. (2023, September 1). Wallpapers.com. https://wallpapers.com/wallpapers/krusty-krab-zoom-background-6vsxog3jpmkidpji.html
