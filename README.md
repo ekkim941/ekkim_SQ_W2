@@ -18,8 +18,10 @@ The console will show any errors in your sketch.
 
 ## Assets
 
-krust.jpg [1] | Owned by CityPNG |
-sponge.png [2] | Owned by Wallpapers.com |
+| File           | Source                  |
+| -------------- | ----------------------- |
+| krust.jpg [1]  | Owned by CityPNG        |
+| sponge.png [2] | Owned by Wallpapers.com |
 
 ## References
 
